@@ -6,5 +6,5 @@ Course: CSE 559 Computer Vision\
 Instructor: Ayan Chakrabarti Ph.D.\
 Institution: Washington University In St. Louis
 
-Please read my Final Report - *report_SeunghwanKim* before you run the code.
+Please read my Final Report - *report_SeunghwanKim* before you run the code.\
 Run **main.m** to test image inputs.
